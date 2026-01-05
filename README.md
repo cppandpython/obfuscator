@@ -27,12 +27,8 @@ obfuscator - Obfuscate Python code for security purposes, but leave it executabl
 git clone https://github.com/cppandpython/obfuscator.git
 
 # Launch
-python obfuscator.py
+python obfuscator.py (path)
 ```
-
-<br><br>
-
-![obfuscator](obfuscator.png)
 
 
 <br><br><br><br>
@@ -61,8 +57,5 @@ obfuscator - Обфусцирует код Python в целях безопасн
 git clone https://github.com/cppandpython/obfuscator.git
 
 # Запуск
-python obfuscator.py
+python obfuscator.py (path) 
 ```
-<br><br>
-
-![obfuscator](obfuscator.png)
