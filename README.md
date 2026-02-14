@@ -8,7 +8,7 @@
 
 <br>
 
-pypacker - 
+pypacker - Packages Python code and compiles it at runtime
 
 <br>
 
@@ -38,7 +38,7 @@ python pypacker.py
 
 <br>
 
-pypacker - 
+pypacker - Упаковывает код Python и компилирует его во время выполнения
 
 <br>
 
